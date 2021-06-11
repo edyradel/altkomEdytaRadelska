@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\bin\Debug\netcoreapp3.1\altkomEdytaRadelska.exe
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\bin\Debug\netcoreapp3.1\altkomEdytaRadelska.deps.json
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\bin\Debug\netcoreapp3.1\altkomEdytaRadelska.runtimeconfig.json
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\bin\Debug\netcoreapp3.1\altkomEdytaRadelska.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\bin\Debug\netcoreapp3.1\altkomEdytaRadelska.dll
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\bin\Debug\netcoreapp3.1\altkomEdytaRadelska.pdb
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\obj\Debug\netcoreapp3.1\altkomEdytaRadelska.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\obj\Debug\netcoreapp3.1\altkomEdytaRadelska.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\obj\Debug\netcoreapp3.1\altkomEdytaRadelska.AssemblyInfo.cs
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\obj\Debug\netcoreapp3.1\altkomEdytaRadelska.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\obj\Debug\netcoreapp3.1\altkomEdytaRadelska.dll
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\obj\Debug\netcoreapp3.1\altkomEdytaRadelska.pdb
+C:\Users\Student\Desktop\Code\altkomEdytaRadelska\obj\Debug\netcoreapp3.1\altkomEdytaRadelska.genruntimeconfig.cache
